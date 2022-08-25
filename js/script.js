@@ -49,29 +49,41 @@ TweenMax.to($(this), 1, { scale:0.9,ease:Back.easeOut});
 
 
 
-$('#banner').click(function(){
-  window.open("piensa/index.html", '_blank');
-});	
-$('.capacitacion').click(function(){
-  window.open("https://www.ipn.mx/capacitacion365/", '_blank');
-});	
+// $('#banner').click(function(){
+//   window.open("piensa/index.html", '_blank');
+// });	
+// $('.capacitacion').click(function(){
+//   window.open("https://www.ipn.mx/capacitacion365/", '_blank');
+// });	
 $('#sec1').click(function(){
-  window.open("instructivos/index.html", '_blank');
+  window.open("#", '_blank');
 });	
 $('#sec2').click(function(){
-  window.open("ligoteca/index.html", '_blank');
+  window.open("#", '_blank');
 });	
 $('#sec3').click(function(){
-  window.open("rdd/index.html", '_blank');
+  window.open("#", '_blank');
 });	
 $('#sec4').click(function(){
-  window.open("docentes/index.html", '_blank');
+  window.open("#", '_blank');
 });		
 $('#sec5').click(function(){
-  window.open("estudiantes/index.html", '_blank');
+  window.open("#", '_blank');
 });	
 $('#sec6').click(function(){
-  window.open("sabatico/index.html", '_blank');
+  window.open("#", '_blank');
+});		
+$('#sec7').click(function(){
+  window.open("#", '_blank');
+});		
+$('#sec8').click(function(){
+  window.open("#", '_blank');
+});		
+$('#sec9').click(function(){
+  window.open("#", '_blank');
+});		
+$('#sec10').click(function(){
+  window.open("#", '_blank');
 });		
 
 	
@@ -141,6 +153,6 @@ $(".carousel").swipe({
 		
 
  
- });
+});
  
  
